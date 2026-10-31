@@ -1,6 +1,6 @@
-# docker-learning
+# docker
 
-Notes and small examples from learning Docker: CLI commands, Docker Compose, a Spring Boot image, and a Kubernetes deployment. This is a learning repository.
+Docker CLI notes, Docker Compose examples, a Spring Boot image and a Kubernetes deployment manifest.
 
 ## Contents
 | Folder | What it covers |
