@@ -2,7 +2,7 @@
 > Create a file called app.py in your project directory with app code
 > Create another file called requirements.txt in your project directory for app dependencies
 > Create a Dockerfile and add required commands
-> Define services in a Compose file - Create a file called compose.yaml in project directory
+> Define services in a Compose file - Create a file called docker-compose.yml in project directory
 From project directory, start up application by running 'docker compose up'
 > Enter http://localhost:8000/ in a browser. Message will appear.
 'Hello World! I have been seen 1 times.'

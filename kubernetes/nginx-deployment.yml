@@ -1,8 +1,8 @@
 # deployment of Docker image to kubernetes
 
 #### Expanded Form ####
-appVersion: app/v1
-kind: deployment
+apiVersion: apps/v1
+kind: Deployment
 metadata:
   name: nginx-deployment
 spec: 

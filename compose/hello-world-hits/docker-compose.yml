@@ -1,5 +1,5 @@
 include:
-   - infra.yaml
+   - infra.yml
 services:
   web:
     build: .
